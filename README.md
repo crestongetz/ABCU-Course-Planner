@@ -25,11 +25,11 @@ This project was first developed for the CS-300 Data Structures and Algorithms c
 5. Run Program
 
 ## Repository Files
-- | `ProjectTwo_HashMap_CS300_Getz.cpp` | C++ implementation of the recommended HashTable data structure solution.  |
-- | `ProjectTwo_CS300.cpp` | C++ implementation of the recommended Vector data structure solution. |
-- | [`ABCU Course Planner Narrative.pdf`](https://github.com/crestongetz/ABCU-Course-Planner/blob/e7bb595bc6a56c5fc736a08aee2626b557572985/ABCU%20Course%20Planner%20Narrative.pdf) | Detailed analysis of using a hash table for the application and design choices. |
-- | [`ABCU-Pseudocode-Document-and-Runtime-Analysis.pdf`](ABCU-Pseudocode-Document-and-Runtime-Analysis.pdf) | Detailed runtime analysis and initial data structure suggestion (Vector). |
-- | `CS 300 ABCU_Advising_Program_Input.csv` | Sample input file used for testing the advising program. |
-- | `CS 300 Course Information.pdf` | PDF explaining how to input csv is structured. Includes a flow chart of curriculum. |
+- | `ProjectTwo_HashMap_CS300_Getz.cpp` | C++ implementation of the recommended HashTable data structure solution.
+- | `ProjectTwo_CS300.cpp` | C++ implementation of the recommended Vector data structure solution.
+- | [`ABCU Course Planner Narrative.pdf`](https://github.com/crestongetz/ABCU-Course-Planner/blob/e7bb595bc6a56c5fc736a08aee2626b557572985/ABCU%20Course%20Planner%20Narrative.pdf) | Detailed analysis of using a hash table for the application and design choices.
+- | [`ABCU-Pseudocode-Document-and-Runtime-Analysis.pdf`](ABCU-Pseudocode-Document-and-Runtime-Analysis.pdf) | Detailed runtime analysis and initial data structure suggestion (Vector).
+- | `CS 300 ABCU_Advising_Program_Input.csv` | Sample input file used for testing the advising program.
+- | `CS 300 Course Information.pdf` | PDF explaining how to input csv is structured. Includes a flow chart of curriculum.
 
 
