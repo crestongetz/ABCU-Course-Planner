@@ -4,6 +4,8 @@ This project was first developed for the CS-300 Data Structures and Algorithms c
 
 **The work was expanded in CS-499 Computer Science Capstone to implement a hash table instead of a vector and evaluate the trade-offs.**
 
+[View this project in my ePortfolio](https://crestongetz.github.io/)
+
 ## Key Deliverables & Outcome
 
 - **Problem Solved:** Determining the **most efficient data structure** (Vector, Hash Table, or Binary Search Tree) to store and manage course data for the ABCU advising department.
